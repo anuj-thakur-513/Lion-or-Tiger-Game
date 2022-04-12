@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lion or Tiger</string>
+    <string name="lion_or_tiger">Lion or Tiger?</string>
+    <string name="lion_wins">Lion Wins!</string>
+    <string name="tiger_wins">Tiger Wins!</string>
+</resources>
